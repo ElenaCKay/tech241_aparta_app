@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-## test the link to jenkins
+## testing the merge feature
 
 ## Description
 
