@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-## Testing my own jenenkins CD
+## Testing my own jenkins CD
 
 ## Description
 
